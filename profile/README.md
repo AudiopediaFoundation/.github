@@ -1,18 +1,20 @@
 ![Audiopedia Web App in Nigeria](https://audiopedia.io/Nigeria2.jpg)
 _Community Health Worker introducing the Audiopedia Web App, in  Ngenevu, Nigeria_
 
-# Welcome to Audiopedia Foundation
+### **Welcome to Audiopedia Foundation**
 
-Owning a mobile phone and having access to the internet can change lives. Yet millions of women in developing countries are unable to take advantage of the mobile internet. The main reasons for this are lack of literacy and digital skills.
+At Audiopedia Foundation, we believe that accessible knowledge can change lives. Yet millions of underserved communities, particularly women, face barriers such as illiteracy, lack of connectivity, and digital skills gaps, which prevent them from accessing critical information.
 
-Together, we can change this. Audiopedia Foundation is a global initiative to promote the development and use of free and open software that bridges the digital gender gap.
+**Audiopedia Foundation** is a global initiative committed to bridging this gap through the development and use of **open-source tools and solutions** that deliver life-saving knowledge in inclusive, innovative, and culturally adapted ways. From solar-powered audio devices to AI-driven solutions for oral-first languages, we are creating tools that empower marginalized communities worldwide.
 
-## Hacking Gender Equality
+### **Our Mission: Empowering Through Technology**
 
-The aim of OSEQ is to bring together software developers, content creators, development organizations and to create local ecosystems where open software for development thrives. OSEQ-powered projects have been implemented in Nigeria, India, Pakistan, Rwanda, Tanzania, Uganda, Ethiopia and Nicaragua.
+- **Cultural Preservation**: Safeguarding Indigenous languages and oral traditions through lightweight AI tools like Keyword Spotting (KWS).  
+- **Digital Inclusion**: Developing offline-ready solutions to bridge the digital divide in remote and resource-constrained settings.  
+- **Scalable Impact**: Providing open frameworks and tools that can be adapted globally to diverse cultural and linguistic contexts.
 
-Digital Public Goods (DPGs) like those developed by OSEQ are one of the cornerstones of the UNs roadmap to reach the Sustainable Development Goals (SDGs). They can be defined as open-source software, open data, open AI models, open standards, and open content that help attain the SDGs.
+### **Get Involved**
 
-Digital Public Goods play an important role in three major aspects: they can help bridge digital gaps by providing accessible digital tools, they can help local organizations in their digital transformation process and they can provide income generating opportunities for local entrepreneurs, developers and content creators.
+Audiopedia Foundation invites developers, organizations, and innovators to collaborate with us in creating open-source solutions that drive real-world impact. Explore our repositories, contribute to inclusive AI projects, and join us in building technology that uplifts communities and preserves cultures.
 
-OSEQ is lead by [Audiopedia Foundation](https://www.audiopedia.foundation), a pioneering nonprofit organization in the field of accessible education for marginalized women. 
+**Visit [Audiopedia Foundation](https://audiopedia.foundation) to learn more about our global mission.**
