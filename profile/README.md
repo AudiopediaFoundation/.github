@@ -1,6 +1,3 @@
-![Audiopedia Web App in Nigeria](https://audiopedia.io/Nigeria2.jpg)
-_Community Health Worker introducing the Audiopedia Web App, in  Ngenevu, Nigeria_
-
 ### **Welcome to Audiopedia Foundation**
 
 At Audiopedia Foundation, we believe that accessible knowledge can change lives. Yet millions of underserved communities, particularly women, face barriers such as illiteracy, lack of connectivity, and digital skills gaps, which prevent them from accessing critical information.
